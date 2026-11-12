@@ -28,4 +28,4 @@ Scripting & Automation: Bash, scheduled jobs, JSON & text processing
 Application Ops: databases & caches, deployments & releases
 
 # Requirements
-Bash installed (the macOS default works) & a desktop browser(working, preferably). 
+Bash installed (the macOS default works) & a desktop browser(working). 
