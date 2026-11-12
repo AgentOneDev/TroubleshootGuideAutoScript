@@ -1,5 +1,5 @@
 # Cloud Backend Troubleshooting Guide
-An automated troubleshooting guide for working on cloud linux servers, with a focus on networking: SSH sessions that won't connect, pings that fail, traceroutes that stop halfway, tunnels, firewalls and DNS, plus the server, scripting and deployment problems that come with them.
+An automated Bash (Shell Script) troubleshooting guide for working on cloud linux servers, with a focus on networking: SSH sessions that won't connect, pings that fail, traceroutes that stop halfway, tunnels, firewalls and DNS, plus the server, scripting and deployment problems that come with them.
 
 # Run it
 git clone https://github.com/<your-username>/cloud-backend-troubleshooting.git
