@@ -11,8 +11,8 @@ chmod +x backend-cloud-troubleshoot-guide.sh
 ./backend-cloud-troubleshoot-guide.sh
 
 # What the script does
-1. Writes the embedded HTML guide to a new temporary folder
-2. Opens it with your system's browser opener: `xdg-open` (Linux), `open` (macOS), `wslview`/`explorer.exe` (WSL) or `start` (Git Bash).
+Writes the embedded HTML guide to a new temporary folder
+Opens it with your system's browser opener: `xdg-open` (Linux), `open` (macOS), `wslview`/`explorer.exe` (WSL) or `start` (Git Bash).
 
 It makes no network requests, installs nothing, doesn't need `sudo`, and won't overwrite an existing file unless you pass `--force`. The temp file stays in `$TMPDIR` (usually `/tmp`), which your OS clears on its own schedule.
 
