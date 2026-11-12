@@ -3,8 +3,11 @@ An automated Bash (Shell Script) troubleshooting guide for working on cloud linu
 
 # Run it
 git clone https://github.com/<your-username>/cloud-backend-troubleshooting.git
+
 cd cloud-backend-troubleshooting
+
 chmod +x backend-cloud-troubleshoot-guide.sh
+
 ./backend-cloud-troubleshoot-guide.sh
 
 # What the script does
