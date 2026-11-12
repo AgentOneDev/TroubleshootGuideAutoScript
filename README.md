@@ -1,3 +1,5 @@
+![Bash](https://img.shields.io/badge/Bash-script-4EAA25?logo=gnubash&logoColor=white)
+
 # Cloud Backend Troubleshooting Guide
 An automated Bash (Shell Script) troubleshooting guide for working on cloud linux servers, with a focus on networking: SSH sessions that won't connect, pings that fail, traceroutes that stop halfway, tunnels, firewalls and DNS, plus the server, scripting and deployment problems that come with them.
 
