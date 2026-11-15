@@ -1,7 +1,7 @@
 # Cloud Backend Troubleshooting Guide
 Troubleshooting guide for cloud Linux servers: SSH, networking, DNS, TLS, server health, scripting and deployments. Opens in your browser.
 
-## Install
+# Install
 ```bash
 git clone https://github.com/<your-username>/backend-cloud-troubleshoot-guide.git
 cd backend-cloud-troubleshoot-guide
@@ -17,7 +17,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 Re-run `./install.sh` after updating the repo.
 
-## Use
+# Use
 ```bash
 guide
 ```
@@ -32,19 +32,19 @@ guide
 
 Without installing: `./backend-cloud-troubleshoot-guide.sh`
 
-## Installer options
+# Installer options
 | Option | Action |
 |---|---|
 | `-d`, `--dir DIR` | Install to `DIR/guide` |
 | `-f`, `--force` | Replace an existing `guide` that isn't this one |
 | `-u`, `--uninstall` | Remove `guide` |
 
-## ⚠ Uninstall — deletes a file
+# Uninstall — deletes a file
 ```bash
 ./install.sh --uninstall
 ```
 Permanently deletes `~/.local/bin/guide`. Only deletes it if it's this guide.
 
-## Requirements
+# Requirements
 - Bash: Linux, macOS, WSL or Git Bash (not PowerShell or Command Prompt)
 - A web browser
